@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lCjXmIIqabZenjiWaX+KT8mYCnYDalJUMrFcTbm1fbXOxcKfiQBeJKYWfwk4u17sw94V4tGjqgpPK6xFvjeB8w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ites_\\OneDrive\\Escritorio\\SUBIDA AL GITHUB CODIGOS\\UsoMethodsClassString\\UsoMethodsClassString\\UsoMethodsClassString.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ites_\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.31\\microsoft.netcore.app.host.win-x64.3.1.31.nupkg.sha512"
+  ],
+  "logs": []
+}
